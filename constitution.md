@@ -206,13 +206,12 @@ and Email.
 
 ## Amendments to the Constitution
 
-* Amendments to this constitution may be introduced at the conclusion of any meeting.
+* Amendments to this constitution may be introduced at any time.
+* Any active member can introduce an amendment.
 * Voting shall occur at the meeting following an amendment’s introduction.
 * Upon a successful vote, the amendment takes effect following Office of Student
 activities.
-* Amendments to this constitution may be introduced at the conclusion of any meeting.
-Voting shall occur at the meeting following its introduction. Upon a successful vote, the
-amendment takes effect following Office of Student Activities approval.
+* The organization's advisor must be notified of proposed constitution changes, and witholds the right to veto constitutional amendments.
 * All amendments are subject to the approval of the Office of Student Activities.
 
 ## Parliamentary Authority

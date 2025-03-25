@@ -167,6 +167,7 @@ officer.
 
 * For competitions that do not have an associated tryout, captains may use an application form to select their teams.
 * Team captains have the final say over team selection.
+* If a competition has alternate members, the team captain is free to determine the process of selecting both alternates and full members. This prrocess must be made clear up front to all involved team members, ideally at tryouts/application.
 * Captains must confer with the advisor, and the highest level executive board member not seeking a spot on the team to confirm their team selections.
 * Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 

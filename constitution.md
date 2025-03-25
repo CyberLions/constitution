@@ -121,9 +121,8 @@ efforts and discuss opportunities.
     1. Each captain position can only be held by one individual, you cannot hold multiple captain positions simultaneously.
     2. The Captains will lead the CPTC and CCDC competition teams respectively, as well as any other cybersecurity competitions unless otherwise decided by the President.
     3. The Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
-    4. The Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
-    5. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
-    6. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
+    4. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
+    5. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
 * Chair Positions:
   * Competition Chair
     1. The Competition Chair is responsible for finding competitions the organization can compete in, facilitating team creation when required, and assisting with internal competitions.
@@ -153,6 +152,23 @@ officer.
   * After a warning is issued. The officer in question will begin a two-week probationary period where they can address the grievances cited in the warning.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
   * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
+
+## Competition Teams
+
+### Tryouts
+
+* The Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
+* Tryouts should consist of a hands-on exercise that provides a fair assessment of skills required to be a successful member of the competition team.
+* Captains may solicit help from other members, alumni, or associate members to build the tryout exercise.
+  * If possible, only members not planning to participate in tryouts should assist with the creation of the exercise. Otherwise, another fair evaluation must be provided by the captain for that member.
+* The result of these tryouts may be used to determine the makeup of other competition teams such as Cyberforce. It's encouraged to hold a tryout exercise for all competitions involving travel.
+
+### Team Selection
+
+* For competitions that do not have an associated tryout, captains may use an application form to select their teams.
+* Team captains have the final say over team selection.
+* Captains must confer with the advisor, and the highest level executive board member not seeking a spot on the team to confirm their team selections.
+* Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 
 ## Meetings
 

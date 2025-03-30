@@ -189,8 +189,8 @@ active members from voting.
 
 ### Spending
 
-* The use of organizational funds for competition travel, preparation, registration, or other use must be approved by the Treasurer or the majority of the Executive Board.
-* All other uses of organizational funds require Treasurer approval, and majority consent from the Executive Board.
+* The use of organizational funds for competition travel, preparation, registration, or other uses must be approved by either the Treasurer or the majority of the Executive Board.
+* All other uses of organizational funds require both Treasurer approval and majority consent from the Executive Board.
 * If a dispute about the use of organizational funds cannot be resolved, follow the outlined informal mediation process.
 
 ## Elections

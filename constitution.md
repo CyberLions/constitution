@@ -126,10 +126,11 @@ efforts and discuss opportunities.
 
 * The President may appoint active members to a chair or captain position without a vote with consent from the Vice President.
 * The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
-* There is no limit on the number of chair postitions that can be created.
+* There is no limit on the number of chair positions that can be created.
 * There are no restrictions on the number of chair positions a member can hold.
-* Responsibilities of Officers can be delegated to chair positions as needed, created chair positions should report to their respective officer.
-* The constitutional list of chair positions is nonexhaustive.
+* Responsibilities of Officers can be delegated to chair positions as needed, within reason, created chair positions should report to their respective officer.
+* Disputes over unfair delegation or workloads should follow the informal mediation process.
+* The constitutional list of chair positions is non-exhaustive.
 * Chair Positions:
   * Competition Chair
     1. The Competition Chair is responsible for finding competitions the organization can compete in, facilitating team creation when required, and assisting with internal competitions.

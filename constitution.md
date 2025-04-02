@@ -206,11 +206,11 @@ and Email.
 
 ## Amendments to the Constitution
 
-* Amendments to this constitution may be introduced at any time.
+* Amendments to this constitution may be introduced at any time. Voting must take place at least a week after an amendment's introduction.
 * Any active member can introduce an amendment.
 * Voting shall occur at the meeting following an amendment’s introduction. Prior to voting, there must be a discussion about the proposed changes.
 * Upon a successful vote, the amendment takes effect following Office of Student Activities approval.
-* The organization's advisor must be notified of proposed constitution changes at least a week in advance and withhold the right to veto constitutional amendments.
+* The organization's advisor must be notified of proposed constitution changes at least a week in advance and withholds the right to veto constitutional amendments.
 
 ## Parliamentary Authority
 

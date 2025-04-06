@@ -1,7 +1,7 @@
 # Pennsylvania State University - Competitive Cyber Security Organization
 
 Date of Origin: September 2014
-Last Updated: May 2023
+Last Updated: April 2025
 
 ## Table of Contents
 

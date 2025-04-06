@@ -175,6 +175,24 @@ officer.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
   * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
 
+## Competition Teams
+
+### Tryouts
+
+* The Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
+* Tryouts should consist of a hands-on exercise that provides a fair assessment of skills required to be a successful member of the competition team.
+* Captains may solicit help from other members, alumni, or associate members to build the tryout exercise.
+  * If possible, only members not planning to participate in tryouts should assist with the creation of the exercise. Otherwise, another fair evaluation must be provided by the captain for that member.
+* The result of these tryouts may be used to determine the makeup of other competition teams such as Cyberforce. It's encouraged to hold a tryout exercise for all competitions involving travel.
+
+### Team Selection
+
+* For competitions that do not have an associated tryout, captains may use an application form to select their teams.
+* Team captains have the final say over team selection.
+* If a competition has alternate members, the team captain is free to determine the process of selecting both alternates and full members. This process must be made clear up front to all involved team members, ideally at tryouts/application.
+* Captains must confer with the advisor, and the highest level executive board member not seeking a spot on the team to confirm their team selections.
+* Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
+
 ## 7. Meetings <a name="7-meetings"></a>
 
 * The Penn State Competitive Cyber Security Organization will meet at least once per

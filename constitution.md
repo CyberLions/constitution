@@ -201,7 +201,12 @@ active members from voting.
   2. There is a proven need for dues as income for the organization.
   3. Dues are determined by The Treasurer with consent from the President.
 * Dues shall be collected semi-annually.
-* The Officers of the Penn State Competitive Cyber Security Organization may spend up to $50 of the organization’s funds without a vote from approval of the general membership.
+
+### Spending
+
+* The use of organizational funds for competition travel, preparation, registration, or other uses must be approved by either the Treasurer or the majority of the Executive Board.
+* All other uses of organizational funds require both Treasurer approval and majority consent from the Executive Board.
+* If a dispute about the use of organizational funds cannot be resolved, follow the outlined informal mediation process.
 
 ## 10. Elections <a name="10-elections"></a>
 

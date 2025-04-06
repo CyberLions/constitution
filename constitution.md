@@ -89,15 +89,12 @@ members to be selected as an officer or chair at the time of the appointment or
 election. Officers may change from full-time to part-time, or vice versa, after becoming
 an officer. The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
-* Active members may be elected to officer positions according to the [election](#10-elections) rules in
-section 10. The President may appoint active members to a chair or captain position 
-without a vote with consent from the Vice President. The President may create, modify,
-or dismiss chair or captain positions without a vote with consent from the Vice President.
-* Active members may hold a single officer or captain position at a time. There are no
-restrictions on the number of chair positions a member can hold. Captains may hold
-Officer positions with the approval of both the current President and club Advisor.
+* Active members may be elected to officer positions according to the [election](#10-elections) rules in section 10.
+* The President may appoint active members to a captain position without a vote with consent from the Vice President.
+* Active members may hold a single officer or captain position at a time.
+* Captains may hold an Officer position with the approval of both the current President and club Advisor.
 * The Officers should meet at least once a week when possible. This should include
-captains and chairs for a portion of the meeting.
+captains and chairs for at least a portion of the meeting.
 * The Officers should meet with the advisor at least three (3) times a semester to coordinate
 efforts and discuss opportunities.
 * Officer Positions:
@@ -143,6 +140,15 @@ efforts and discuss opportunities.
     5. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
     6. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
     7. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
+## Chairs
+
+* The President may appoint active members to a chair or captain position without a vote with consent from the Vice President.
+* The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
+* There is no limit on the number of chair positions that can be created.
+* There are no restrictions on the number of chair positions a member can hold.
+* Responsibilities of Officers can be delegated to chair positions as needed, within reason, created chair positions should report to their respective officer.
+* Disputes over unfair delegation or workloads should follow the informal mediation process.
+* The constitutional list of chair positions is non-exhaustive.
 * Chair Positions:
   * Webmaster
     1. The Webmaster shall maintain the organization’s online platforms, including but not limited to the website, social media platforms, and the Discord server.
@@ -158,7 +164,7 @@ efforts and discuss opportunities.
 
 ## 6. Removal/Replacement of Officers <a name="6-removalreplacement-of-officers"></a>
 
-* In the event an officer steps down, the following steps should be taken to replace the
+* In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
 officer.
   1. The officer stepping down must provide a minimum of two weeks's notice that they are stepping down.
   2. Upon notice of an officer stepping down, the executive board must begin electing a replacement officer using the [election](#10-elections) rules outlined in section 10.

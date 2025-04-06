@@ -135,18 +135,15 @@ efforts and discuss opportunities.
     3. The Tech Director will serve as the Webmaster when the position is vacant.
     4. The goal of the Tech Director will be managing and maintaining the technical resources of the club to facilitate trainings, competitions, and club image.
 * Captain Positions:
-  * Offensive and Defensive Captains
-    1. Each captain position can only be held by one individual, you cannot hold multiple captain positions simultaneously.
-    2. The Captains will lead the CPTC and CCDC competition teams respectively, as well as any other cybersecurity competitions unless otherwise decided by the President.
-    3. The Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
-    4. The Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
-    5. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
-    6. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
+  * Offensive, Defensive, and CTF Captains
+    1. Each captain position can only be held by one individual, no one may hold multiple captain positions simultaneously.
+    2. The Offensive and Defensive Captains will lead the CPTC and CCDC competition teams respectively, as well as any other non-CTF cybersecurity competitions unless otherwise decided by the President.
+    3. The CTF Captain will identify and promote CTF competitions throughout the year, select teams, and organize practices or delegate the organization of practices to individual teams.
+    4. The Offensive and Defensive Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
+    5. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
+    6. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
+    7. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
 * Chair Positions:
-  * Competition Chair
-    1. The Competition Chair is responsible for finding competitions the organization can compete in, facilitating team creation when required, and assisting with internal competitions.
-    2. The Competition Chair will present opportunities to the Secretary and when appropriate assign a captain to run the position.
-    3. The Competition Chair will report to the Secretary unless otherwise decided by the President.
   * Webmaster
     1. The Webmaster shall maintain the organization’s online platforms, including but not limited to the website, social media platforms, and the Discord server.
     2. The Webmaster will report to the Tech Director unless otherwise decided by the President.

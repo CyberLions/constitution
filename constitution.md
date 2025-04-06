@@ -3,25 +3,42 @@
 Date of Origin: September 2014
 Last Updated: May 2023
 
-## Purpose
+## Table of Contents
+
+1.  [Purpose](#1-purpose)
+2.  [Mission](#2-mission)
+3.  [Goal](#3-goal)
+4.  [Membership](#4-membership)
+5.  [Officers](#5-officers)
+6.  [Removal/Replacement of Officers](#6-removalreplacement-of-officers)
+7.  [Meetings](#7-meetings)
+8.  [Voting](#8-voting)
+9.  [Finances](#9-finances)
+10. [Elections](#10-elections)
+11. [Amendments to the Constitution](#11-amendments-to-the-constitution)
+12. [Parliamentary Authority](#12-parliamentary-authority)
+13. [Accessibility of this Constitution](#13-accessibility-of-this-constitution)
+14. [Advisor](#14-advisor)
+
+## 1. Purpose <a name="1-purpose"></a>
 
 The purpose of the Penn State Competitive Cyber Security Organization (CCSO) is to
 provide members with opportunities to pursue their interests in all facets of cybersecurity,
 develop their technical skills, collaborate with alumni, and other organizations, and provide
 mentorship opportunities.
 
-## Mission
+## 2. Mission <a name="2-mission"></a>
 
 The mission of CCSO is to develop the technical skills and knowledge of our members
 and provide them with the opportunity to apply themselves by participating in various
 cybersecurity competitions.
 
-## Goal
+## 3. Goal <a name="3-goal"></a>
 
 The goal of CCSO is to develop our members and represent Penn State in cybersecurity
 competitions.
 
-## Membership
+## 4. Membership <a name="4-membership"></a>
 
 * At all times, the majority (50%+1) of all active members shall be full-time, officially
 registered students at University Park.
@@ -62,7 +79,7 @@ member.
 limited to guidelines stated by university policy, as well as local, state, and federal
 laws.
 
-## Officers
+## 5. Officers <a name="5-officers"></a>
 
 * Undergraduate candidates must be full-time, officially registered active student members
 to be selected as an officer or chair at the time of the appointment or election.
@@ -141,7 +158,7 @@ efforts and discuss opportunities.
 * Filling vacancies:
   * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the election rules in section VII.
 
-## Removal/Replacement of Officers
+## 6. Removal/Replacement of Officers <a name="6-removalreplacement-of-officers"></a>
 
 * In the event an officer steps down, the following steps should be taken to replace the
 officer.
@@ -154,7 +171,7 @@ officer.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
   * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
 
-## Meetings
+## 7. Meetings <a name="7-meetings"></a>
 
 * The Penn State Competitive Cyber Security Organization will meet at least once per
 month
@@ -163,7 +180,7 @@ to all active members.
 * The President, with the consent of the Vice President, may change the meeting frequency.
 * The President may call special meetings at their discretion.
 
-## Voting
+## 8. Voting <a name="8-voting"></a>
 
 * A Quorum for all voting shall be thirty-three percent (33%) of the active members. If an
 active member does not attend four (4) meetings in a row or misses two meetings with
@@ -177,7 +194,7 @@ consent from the Executive Board.
 * The method and format for voting must be reasonable and cannot be used to exclude
 active members from voting.
 
-## Finances
+## 9. Finances <a name="9-finances"></a>
 
 * All organizational funds are to be deposited and handled exclusively through the Associated Student Activities (ASA).
 * This organization will not have an off-campus account(s).
@@ -188,7 +205,7 @@ active members from voting.
 * Dues shall be collected semi-annually.
 * The Officers of the Penn State Competitive Cyber Security Organization may spend up to $50 of the organization’s funds without a vote from approval of the general membership.
 
-## Elections
+## 10. Elections <a name="10-elections"></a>
 
 * Officer elections shall take place during a regularly scheduled meeting more than a
 month prior to the end of the Spring semester.
@@ -204,7 +221,7 @@ and Email.
   4. In the event of a tie, the ballots will be recast.
   5. No one involved in conducting the elections may be an official candidate.
 
-## Amendments to the Constitution
+## 11. Amendments to the Constitution <a name="11-amendments-to-the-constitution"></a>
 
 * Amendments to this constitution may be introduced at the conclusion of any meeting.
 * Voting shall occur at the meeting following an amendment’s introduction.
@@ -215,16 +232,16 @@ Voting shall occur at the meeting following its introduction. Upon a successful 
 amendment takes effect following Office of Student Activities approval.
 * All amendments are subject to the approval of the Office of Student Activities.
 
-## Parliamentary Authority
+## 12. Parliamentary Authority <a name="12-parliamentary-authority"></a>
 
 * Robert’s Rules of Order, Newly Revised, by Sarah Corbin Roberts shall be used in all
 cases not covered by this constitution.
 
-## Accessibility of this Constitution
+## 13. Accessibility of this Constitution <a name="13-accessibility-of-this-constitution"></a>
 
 * Copies of this constitution shall be made available to anyone upon request.
 
-## Advisor
+## 14. Advisor <a name="14-advisor"></a>
 
 * This organization must always retain at least one advisor. The advisor will be a full-time
 Faculty or Staff member of The Pennsylvania State University, University Park campus

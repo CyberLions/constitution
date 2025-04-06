@@ -91,7 +91,7 @@ members to be selected as an officer or chair at the time of the appointment or
 election. Officers may change from full-time to part-time, or vice versa, after becoming
 an officer. The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
-* Active members may be elected to officer positions according to the [election](#10-elections) rules in section 10.
+* Active members may be elected to officer positions according to the [election](#12-elections) rules in section 12.
 * The President may appoint active members to a captain position without a vote with consent from the Vice President.
 * Active members may hold a single officer or captain position at a time.
 * Captains may hold an Officer position with the approval of both the current President and club Advisor.
@@ -163,14 +163,14 @@ efforts and discuss opportunities.
     1. The Social Chair shall plan, organize, and execute at least 2 social and fundraising events per semester.
     2. The Social Chair will report to the Event Planner unless otherwise decided by the President.
 * Filling vacancies:
-  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#10-elections) rules in section 10.
+  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#12-elections) rules in section 12.
 
 ## 7. Removal/Replacement of Officers <a name="7-removalreplacement-of-officers"></a>
 
 * In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
 officer.
   1. The officer stepping down must provide a minimum of two weeks's notice that they are stepping down.
-  2. Upon notice of an officer stepping down, the executive board must begin electing a replacement officer using the [election](#10-elections) rules outlined in section 10.
+  2. Upon notice of an officer stepping down, the executive board must begin electing a replacement officer using the [election](#12-elections) rules outlined in section 12.
   3. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
 * In the event an officer is not fulfilling their duties as outlined in [section 5](#5-officers) and by the President. They meet grounds for dismissal from their officer position.
   * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable

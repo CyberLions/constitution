@@ -218,11 +218,15 @@ Spring semester.
 preceding it and through all organizational communication platforms such as Discord,
 and Email.
 * Election codes
-  1. The President will be elected by the Executive Board and must be someone who has held an Officer, Captain, or Chair role in the organization for at least 1 semester. Should no one meet these criteria, all active members may be nominated.
-  2. Any member may nominate an active member for any office by raising his/her hand at the appropriate time and being recognized by the presiding official. Next, the active members shall cast secret, written ballots for the candidate of their choice. Each active member shall have one vote per office.
-  3. If a simple majority (50%+1) cannot be obtained by a single candidate, the candidate with the lowest number of votes shall be dropped from consideration and the active members shall vote again.
-  4. In the event of a tie, the ballots will be recast.
-  5. No one involved in conducting the elections may be an official candidate.
+  1. Nominees for the president must be someone who has held an Officer, Captain, or Chair role in the organization for at least 1 semester. Should no-one meet these criteria, all active members may be nominated.
+  2. All active members may cast a single vote per office.
+  3. Any member may nominate an active member for an office prior to the election. Candidates must accept their nomination prior to elections.
+  4. Candidates must prepare a brief presentation in support of their candidacy, and answer questions from members.
+  5. Members must be present to vote.
+  6. The specific format for elections and nominations may be determined by the President with majority consent from the Executive Board.
+  7. If a simple majority (50%+1) cannot be obtained by a single candidate, the candidate with the lowest number of votes shall be dropped from consideration and the active members shall vote again.
+  8. In the event of a tie, the ballots will be recast.
+  9. No one involved in conducting the elections may be an official candidate.
 
 ## 11. Amendments to the Constitution <a name="11-amendments-to-the-constitution"></a>
 

@@ -11,15 +11,17 @@ Last Updated: April 2025
 3.  [Goal](#3-goal)
 4.  [Membership](#4-membership)
 5.  [Officers](#5-officers)
-6.  [Removal/Replacement of Officers](#6-removalreplacement-of-officers)
-7.  [Meetings](#7-meetings)
-8.  [Voting](#8-voting)
-9.  [Finances](#9-finances)
-10. [Elections](#10-elections)
-11. [Amendments to the Constitution](#11-amendments-to-the-constitution)
-12. [Parliamentary Authority](#12-parliamentary-authority)
-13. [Accessibility of this Constitution](#13-accessibility-of-this-constitution)
-14. [Advisor](#14-advisor)
+6.  [Chairs](#6-chairs)
+7.  [Removal/Replacement of Officers](#7-removalreplacement-of-officers)
+8.  [Competition Teams](#8-competition-teams)
+9.  [Meetings](#9-meetings)
+10.  [Voting](#10-voting)
+11.  [Finances](#11-finances)
+12. [Elections](#12-elections)
+13. [Amendments to the Constitution](#13-amendments-to-the-constitution)
+14. [Parliamentary Authority](#14-parliamentary-authority)
+15. [Accessibility of this Constitution](#15-accessibility-of-this-constitution)
+16. [Advisor](#16-advisor)
 
 ## 1. Purpose <a name="1-purpose"></a>
 
@@ -140,7 +142,8 @@ efforts and discuss opportunities.
     5. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
     6. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
     7. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
-## Chairs
+
+## 6. Chairs <a name="6-chairs"></a>
 
 * The President may appoint active members to a chair or captain position without a vote with consent from the Vice President.
 * The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
@@ -162,7 +165,7 @@ efforts and discuss opportunities.
 * Filling vacancies:
   * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#10-elections) rules in section 10.
 
-## 6. Removal/Replacement of Officers <a name="6-removalreplacement-of-officers"></a>
+## 7. Removal/Replacement of Officers <a name="7-removalreplacement-of-officers"></a>
 
 * In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
 officer.
@@ -175,7 +178,7 @@ officer.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
   * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
 
-## Competition Teams
+## 8. Competition Teams <a name="8-competition-teams"></a>
 
 ### Tryouts
 
@@ -193,7 +196,7 @@ officer.
 * Captains must confer with the advisor, and the highest level executive board member not seeking a spot on the team to confirm their team selections.
 * Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 
-## 7. Meetings <a name="7-meetings"></a>
+## 9. Meetings <a name="9-meetings"></a>
 
 * The Penn State Competitive Cyber Security Organization will meet at least once per
 month
@@ -202,7 +205,7 @@ to all active members.
 * The President, with the consent of the Vice President, may change the meeting frequency.
 * The President may call special meetings at their discretion.
 
-## 8. Voting <a name="8-voting"></a>
+## 10. Voting <a name="10-voting"></a>
 
 * A Quorum for all voting shall be thirty-three percent (33%) of the active members. If an
 active member does not attend four (4) meetings in a row or misses two meetings with
@@ -216,7 +219,7 @@ consent from the Executive Board.
 * The method and format for voting must be reasonable and cannot be used to exclude
 active members from voting.
 
-## 9. Finances <a name="9-finances"></a>
+## 11. Finances <a name="11-finances"></a>
 
 * All organizational funds are to be deposited and handled exclusively through the Associated Student Activities (ASA).
 * This organization will not have an off-campus account(s).
@@ -232,7 +235,7 @@ active members from voting.
 * All other uses of organizational funds require both Treasurer approval and majority consent from the Executive Board.
 * If a dispute about the use of organizational funds cannot be resolved, follow the outlined informal mediation process.
 
-## 10. Elections <a name="10-elections"></a>
+## 12. Elections <a name="12-elections"></a>
 
 * Officer elections shall take place during a regularly scheduled meeting more than a
 month prior to the end of the Spring semester.
@@ -252,7 +255,7 @@ and Email.
   8. In the event of a tie, the ballots will be recast.
   9. No one involved in conducting the elections may be an official candidate.
 
-## 11. Amendments to the Constitution <a name="11-amendments-to-the-constitution"></a>
+## 13. Amendments to the Constitution <a name="13-amendments-to-the-constitution"></a>
 
 * Amendments to this constitution may be introduced at any time. Voting must take place at least a week after an amendment's introduction.
 * Any active member can introduce an amendment.
@@ -260,16 +263,16 @@ and Email.
 * Upon a successful vote, the amendment takes effect following Office of Student Activities approval.
 * The organization's advisor must be notified of proposed constitution changes at least a week in advance and withholds the right to veto constitutional amendments.
 
-## 12. Parliamentary Authority <a name="12-parliamentary-authority"></a>
+## 14. Parliamentary Authority <a name="14-parliamentary-authority"></a>
 
 * Robert’s Rules of Order, Newly Revised, by Sarah Corbin Roberts shall be used in all
 cases not covered by this constitution.
 
-## 13. Accessibility of this Constitution <a name="13-accessibility-of-this-constitution"></a>
+## 15. Accessibility of this Constitution <a name="15-accessibility-of-this-constitution"></a>
 
 * Copies of this constitution shall be made available to anyone upon request.
 
-## 14. Advisor <a name="14-advisor"></a>
+## 16. Advisor <a name="16-advisor"></a>
 
 * This organization must always retain at least one advisor. The advisor will be a full-time
 Faculty or Staff member of The Pennsylvania State University, University Park campus

@@ -13,7 +13,7 @@ Last Updated: March 2026
 5.  [Officers](#5-officers)
 6.  [Captains](#6-captains)
 7.  [Chairs](#7-chairs)
-8.  [Removal/Replacement of Officers](#8-removalreplacement-of-officers)
+8.  [Removal/Replacement of Officers and Captains](#8-removalreplacement-of-officers-and-captains)
 9.  [Competition Teams](#9-competition-teams)
 10.  [Meetings](#10-meetings)
 11. [Voting](#11-voting)
@@ -133,11 +133,12 @@ efforts and discuss opportunities.
     4. The goal of the Tech Director will be managing and maintaining the technical resources of the club to facilitate trainings, competitions, and club image.
 
 ## 6. Captains <a name="6-captains"></a>
-* Active members may be appointed to captain positions by a majority vote of the Executive Board.
 * Following elections and at least one week prior to the end of the Spring semester, the Executive Board shall appoint the Offensive Captain, Defensive Captain, and CTF Captain for the upcoming academic year by a majority vote.
 * The Executive Board shall solicit recommendations for new Captains from the outgoing Captains, and shall also accept statements of interest from active members.
 * Newly appointed captains fully assume their roles and responsibilities at the end of the Spring semester.
-* The President may appoint active members to a captain position without a vote with consent from the Vice President.
+* Active members may be appointed to captain positions by a majority vote of the Executive Board.
+* The President may appoint active members to a vacant captain position without a vote with consent from the Vice President.
+* In the event that a captain is not 
 * Active members may hold a single officer or captain position at a time.
 * Captains may hold an Officer position with the approval of both the current President and club Advisor.
 * Captain Positions:
@@ -173,7 +174,7 @@ efforts and discuss opportunities.
 * Filling vacancies:
   * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#13-elections) rules in section 12.
 
-## 8. Removal/Replacement of Officers <a name="8-removalreplacement-of-officers"></a>
+## 8. Removal/Replacement of Officers and Captains <a name="8-removalreplacement-of-officers-and-captains"></a>
 
 * In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
 officer.

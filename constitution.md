@@ -92,7 +92,7 @@ members to be selected as an officer, captain, or chair at the time of the appoi
 election. Officers, captains, and chairs may change from full-time to part-time, or vice versa, after starting their role.
 The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
-* Active members may be elected to officer positions according to the [election](#13-elections) rules in section 13.
+* Active members may be elected to officer positions according to the rules in the [Elections](#13-elections) section.
 * The Officers should meet at least once a week when possible. This should include
 captains and chairs for at least a portion of the meeting.
 * The Officers should meet with the advisor at least three (3) times a semester to coordinate

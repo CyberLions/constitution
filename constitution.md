@@ -133,22 +133,23 @@ efforts and discuss opportunities.
     4. The goal of the Tech Director will be managing and maintaining the technical resources of the club to facilitate trainings, competitions, and club image.
 
 ## 6. Captains <a name="6-captains"></a>
-* Following elections and at least one week prior to the end of the Spring semester, the Executive Board shall appoint Offensive, Defensive, and CTF Captains for the upcoming academic year.
-* Newly appointed captains fully assume their roles and responsibilities at the end of the Spring semester.
 * Active members may be appointed to captain positions by a majority vote of the Executive Board.
+* Following elections and at least one week prior to the end of the Spring semester, the Executive Board shall appoint Offensive, Defensive, and CTF Captains for the upcoming academic year by a majority vote.
+* The Executive Board shall solicit recommendations for new Captains from the outgoing Captains, and shall also accept statements of interest from active members.
+* Newly appointed captains fully assume their roles and responsibilities at the end of the Spring semester.
 * The President may appoint active members to a captain position without a vote with consent from the Vice President.
 * Active members may hold a single officer or captain position at a time.
 * Captains may hold an Officer position with the approval of both the current President and club Advisor.
-
 * Captain Positions:
   * Offensive, Defensive, and CTF Captains
     1. Each captain position can only be held by one individual, no one may hold multiple captain positions simultaneously.
     2. The Offensive and Defensive Captains will lead the CPTC and CCDC competition teams respectively, as well as any other non-CTF cybersecurity competitions unless otherwise decided by the President.
-    3. The CTF Captain will identify and promote CTF competitions throughout the year, select teams, and organize practices or delegate the organization of practices to individual teams.
-    4. The Offensive and Defensive Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
-    5. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
-    6. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
-    7. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
+    3. The CTF Captain will identify and promote CTF competitions throughout the year, select teams, and organize practices or delegate the organization of practices to individual teams. 
+    4. The CTF Captain will organize SillyCTF, an annual public CTF competition, with support from the Executive Board. The CTF Captain may delegate this task.
+    5. The Offensive and Defensive Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
+    6. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
+    7. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
+    8. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
 
 ## 7. Chairs <a name="7-chairs"></a>
 

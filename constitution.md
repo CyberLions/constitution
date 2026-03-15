@@ -183,10 +183,10 @@ officer or captain.
   3. Upon notice of a captain stepping down, the Executive Board must appoint a new captain as defined in the [Captains](#6-captains) section.
   4. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
 * In the event an officer or captain is not fulfilling their duties as outlined by the President and in the [Officers](#5-officers) section or the [Captains](#6-captains) section respectively, they meet grounds for dismissal from their officer position.
-  * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable.
-  * After a warning is issued, the officer in question will begin a two-week probationary period where they can address the grievances cited in the warning.
-  * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
-  * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
+  * The President and Vice President may issue a verbal or written warning outlining the officer or captain in question’s failed duties and other misconducts as applicable.
+  * After a warning is issued, the officer or captain in question will begin a two-week probationary period where they can address the grievances cited in the warning.
+  * If after the probationary period, the officer or captain in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer or captain using a two-thirds majority.
+  * If the officer or captain in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
 
 ## 9. Competition Teams <a name="9-competition-teams"></a>
 

@@ -134,7 +134,7 @@ efforts and discuss opportunities.
 
 ## 6. Captains <a name="6-captains"></a>
 * Active members may be appointed to captain positions by a majority vote of the Executive Board.
-* Following elections and at least one week prior to the end of the Spring semester, the Executive Board shall appoint Offensive, Defensive, and CTF Captains for the upcoming academic year by a majority vote.
+* Following elections and at least one week prior to the end of the Spring semester, the Executive Board shall appoint the Offensive Captain, Defensive Captain, and CTF Captain for the upcoming academic year by a majority vote.
 * The Executive Board shall solicit recommendations for new Captains from the outgoing Captains, and shall also accept statements of interest from active members.
 * Newly appointed captains fully assume their roles and responsibilities at the end of the Spring semester.
 * The President may appoint active members to a captain position without a vote with consent from the Vice President.
@@ -153,7 +153,7 @@ efforts and discuss opportunities.
 
 ## 7. Chairs <a name="7-chairs"></a>
 
-* The President may appoint active members to a chair or captain position without a vote with consent from the Vice President.
+* The President may appoint active members to a chair position without a vote with consent from the Vice President.
 * The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
 * There is no limit on the number of chair positions that can be created.
 * There are no restrictions on the number of chair positions a member can hold.

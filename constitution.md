@@ -93,10 +93,6 @@ election. Officers, captains, and chairs may change from full-time to part-time,
 The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
 * Active members may be elected to officer positions according to the [election](#13-elections) rules in section 12.
-* Active members may be appointed to captain positions by a majority vote of the Executive Board.
-* The President may appoint active members to a captain position without a vote with consent from the Vice President.
-* Active members may hold a single officer or captain position at a time.
-* Captains may hold an Officer position with the approval of both the current President and club Advisor.
 * The Officers should meet at least once a week when possible. This should include
 captains and chairs for at least a portion of the meeting.
 * The Officers should meet with the advisor at least three (3) times a semester to coordinate
@@ -136,7 +132,13 @@ efforts and discuss opportunities.
     3. The Tech Director will serve as the Webmaster when the position is vacant.
     4. The goal of the Tech Director will be managing and maintaining the technical resources of the club to facilitate trainings, competitions, and club image.
 
-## 6. Captains <a name="7-chairs"></a>
+## 6. Captains <a name="6-captains"></a>
+* Following elections and at least one week prior to the end of the Spring semester, the Executive Board shall appoint Offensive, Defensive, and CTF Captains for the upcoming academic year.
+* Newly appointed captains fully assume their roles and responsibilities at the end of the Spring semester.
+* Active members may be appointed to captain positions by a majority vote of the Executive Board.
+* The President may appoint active members to a captain position without a vote with consent from the Vice President.
+* Active members may hold a single officer or captain position at a time.
+* Captains may hold an Officer position with the approval of both the current President and club Advisor.
 
 * Captain Positions:
   * Offensive, Defensive, and CTF Captains
@@ -148,7 +150,7 @@ efforts and discuss opportunities.
     6. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
     7. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
 
-## 6. Chairs <a name="7-chairs"></a>
+## 7. Chairs <a name="7-chairs"></a>
 
 * The President may appoint active members to a chair or captain position without a vote with consent from the Vice President.
 * The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
@@ -170,7 +172,7 @@ efforts and discuss opportunities.
 * Filling vacancies:
   * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#13-elections) rules in section 12.
 
-## 7. Removal/Replacement of Officers <a name="8-removalreplacement-of-officers"></a>
+## 8. Removal/Replacement of Officers <a name="8-removalreplacement-of-officers"></a>
 
 * In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
 officer.

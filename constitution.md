@@ -172,7 +172,7 @@ efforts and discuss opportunities.
     1. The Social Chair shall plan, organize, and execute at least 2 social and fundraising events per semester.
     2. The Social Chair will report to the Event Planner unless otherwise decided by the President.
 * Filling vacancies:
-  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the rules in the [Elections] section(#13-elections).
+  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the rules in the [Elections](#13-elections) section.
 
 ## 8. Removal/Replacement of Officers and Captains <a name="8-removalreplacement-of-officers-and-captains"></a>
 

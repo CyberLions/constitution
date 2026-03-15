@@ -92,6 +92,7 @@ election. Officers, captains, and chairs may change from full-time to part-time,
 The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
 * Active members may be elected to officer positions according to the [election](#12-elections) rules in section 12.
+* The 
 * The President may appoint active members to a captain position without a vote with consent from the Vice President.
 * Active members may hold a single officer or captain position at a time.
 * Captains may hold an Officer position with the approval of both the current President and club Advisor.
@@ -170,7 +171,7 @@ efforts and discuss opportunities.
 * In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
 officer.
   1. The officer stepping down must provide a minimum of two weeks's notice that they are stepping down.
-  2. Upon notice of an officer stepping down, the executive board must begin electing a replacement officer using the [election](#12-elections) rules outlined in section 12.
+  2. Upon notice of an officer stepping down, the Executive Board must begin electing a replacement officer using the [election](#12-elections) rules outlined in section 12.
   3. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
 * In the event an officer is not fulfilling their duties as outlined in [section 5](#5-officers) and by the President, they meet grounds for dismissal from their officer position.
   * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable.
@@ -193,7 +194,7 @@ officer.
 * For competitions that do not have an associated tryout, captains may use an application form to select their teams.
 * Team captains have the final say over team selection.
 * If a competition has alternate members, the team captain is free to determine the process of selecting both alternates and full members. This process must be made clear up front to all involved team members, ideally at tryouts/application.
-* Captains must confer with the advisor and the highest level executive board member not seeking a spot on the team to confirm their team selections.
+* Captains must confer with the advisor and the highest level Executive Board member not seeking a spot on the team to confirm their team selections.
 * Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 
 ## 9. Meetings <a name="9-meetings"></a>
@@ -282,4 +283,3 @@ the Executive Board.
 * Responsibilities
   * The Advisor shall serve as an official representative for the Penn State Competitive Cyber Security Organization when required by a competition.
   * The Advisor shall serve as an intermediary between the Penn State Competitive Cyber Security Organization and The Pennsylvania State University or the College of Information Sciences and Technology.
-  

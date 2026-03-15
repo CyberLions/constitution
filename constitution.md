@@ -181,8 +181,8 @@ officer or captain.
   1. The officer or captain stepping down must provide a minimum of two weeks's notice that they are stepping down.
   2. Upon notice of an officer stepping down, the Executive Board must begin electing a replacement officer using the rules in the [Elections](#13-elections) section.
   3. Upon notice of a captain stepping down, the Executive Board must appoint a new captain as defined in the [Captains](#6-captains) section.
-  3. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
-* In the event an officer is not fulfilling their duties as outlined in the [Officers](#5-officers) section and by the President, they meet grounds for dismissal from their officer position.
+  4. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
+* In the event an officer or captain is not fulfilling their duties as outlined by the President and in the [Officers](#5-officers) section or the [Captains](#6-captains) section respectively, they meet grounds for dismissal from their officer position.
   * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable.
   * After a warning is issued, the officer in question will begin a two-week probationary period where they can address the grievances cited in the warning.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.

@@ -12,6 +12,7 @@ Last Updated: April 2025
 4.  [Membership](#4-membership)
 5.  [Officers](#5-officers)
 6.  [Chairs](#6-chairs)
+  * [6.2 Social Team](#62-social-team)
 7.  [Removal/Replacement of Officers](#7-removalreplacement-of-officers)
 8.  [Competition Teams](#8-competition-teams)
 9.  [Meetings](#9-meetings)
@@ -114,7 +115,7 @@ efforts and discuss opportunities.
     1. The Treasurer will be responsible for all organizational finances and will keep an up-to-date budget.
     2. The Treasurer will be responsible for all UPAC and ASA meetings and interactions.
     3. The Treasurer will collect and track membership dues each semester.
-    4. The Treasurer will oversee the corporate engagement program and maintain a list of affiliated corporations.
+    4. The Treasurer will oversee the corporate engagement program, work closely with the Sponsorship Chair, and maintain a list of affiliated corporations.
     5. The Treasurer will plan and book reservations for all club travel unless otherwise decided by the President and Vice-President.
     6. The goal of the Treasurer will be to keep the organization financially stable and to fully benefit from all available University funding and resources.
   * Secretary
@@ -123,11 +124,11 @@ efforts and discuss opportunities.
     3. The Secretary shall serve as the Competition Chair when the position is vacant.
     4. The goal of the Secretary will be to enhance engagement and ensure our members are benefitting from the organization.
   * Event Planner
-    1. The Event Planner will be responsible for planned activities excluding competitions and including but not limited to booking university spaces and organizing participation in involvement fairs.
+    1. The Event Planner will lead the Social Team and is responsible for planned activities excluding competitions, including but not limited to booking university spaces and organizing participation in involvement fairs.
     2. The Event Planner will maintain a master schedule for the academic year listing all events.
     3. The Event Planner will be responsible for facilitating the involvement fair each semester. This includes but is not limited to scheduling people to be present at the table, creating the posterboard, and facilitating recruiting activities.
     4. The Event Planner shall serve as the Recruitment and Social chair when the positions are vacant.
-    5. The goal of Event Planner will be to plan and support organization events, and outreach.
+    5. The goal of the Event Planner will be to plan and support organization events, outreach and community engagement.
   * Tech Director
     1. The Tech Director will be responsible for all technical resources within the organization. This includes but is not limited to the organization's communication channels, club domain names, and club infrastructure.
     2. The Tech Director will facilitate the technological resources for any club activities.
@@ -156,14 +157,29 @@ efforts and discuss opportunities.
   * Webmaster
     1. The Webmaster shall maintain the organization’s online platforms, including but not limited to the website, social media platforms, and the Discord server.
     2. The Webmaster will report to the Tech Director unless otherwise decided by the President.
-  * Recruitment Chair
-    1. The Recruitment Chair shall plan and organize recruitment events such as the Involvement Fair.
-    2. The Recruitment Chair will report to the Event Planner unless otherwise decided by the President.
-  * Social Chair
-    1. The Social Chair shall plan, organize, and execute at least 2 social and fundraising events per semester.
-    2. The Social Chair will report to the Event Planner unless otherwise decided by the President.
 * Filling vacancies:
   * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#12-elections) rules in section 12.
+
+### 6.2 Social Team <a name="62-social-team"></a>
+
+* The Social Team manages recruitment, internal events, public branding, and corporate relationships to ensure the club's sustained growth and engagement.
+
+* The Social Team is led by the Event Planner, see [Event Planner](#5-officers). All team members report to the Event Planner, though the Sponsorship Chair will also work closely with the Treasurer and President.
+
+*   **Team Roles and Responsibilities:**
+    *   **Sponsorship Chair**
+        1. Actively seeks out and communicates with potential corporate sponsors and industry partners to secure funding, resources, and guest speakers for the organization.
+        2. Maintains relationships with existing sponsors and coordinates closely with the Treasurer to manage incoming corporate funds and compliance with university policies.
+        3. Documents contacts within the Wiki as needed.
+    *   **Social Chair**
+        1. The Social Chair shall plan, organize, and execute at least 2 social and fundraising events per semester.
+        2. The Social Chair will report to the Event Planner unless otherwise decided by the President.
+    *   **Recruitment Chair**
+        1. The Recruitment Chair shall plan and organize recruitment events such as the Involvement Fair.
+        2. The Recruitment Chair will report to the Event Planner unless otherwise decided by the President.
+    *   **Social Media Design Chair**
+        1. Creates high-quality digital and print graphics, flyers, and promotional materials for club events, meetings, and announcements.
+        2. Manages the club’s branding and ensures engaging content is posted across all social media platforms regularly.
 
 ## 7. Removal/Replacement of Officers <a name="7-removalreplacement-of-officers"></a>
 

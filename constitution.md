@@ -12,6 +12,7 @@ Last Updated: April 2025
 4.  [Membership](#4-membership)
 5.  [Officers](#5-officers)
 6.  [Chairs](#6-chairs)
+  *   [6.1 Tech Team](#61-tech-team)
 7.  [Removal/Replacement of Officers](#7-removalreplacement-of-officers)
 8.  [Competition Teams](#8-competition-teams)
 9.  [Meetings](#9-meetings)
@@ -129,7 +130,7 @@ efforts and discuss opportunities.
     4. The Event Planner shall serve as the Recruitment and Social chair when the positions are vacant.
     5. The goal of Event Planner will be to plan and support organization events, and outreach.
   * Tech Director
-    1. The Tech Director will be responsible for all technical resources within the organization. This includes but is not limited to the organization's communication channels, club domain names, and club infrastructure.
+    1. The Tech Director will lead the Tech Team and is responsible for the overall strategy and management of all technical resources within the organization. This includes but is not limited to the organization's communication channels, club domain names, and club infrastructure.
     2. The Tech Director will facilitate the technological resources for any club activities.
     3. The Tech Director will serve as the Webmaster when the position is vacant.
     4. The goal of the Tech Director will be managing and maintaining the technical resources of the club to facilitate trainings, competitions, and club image.
@@ -147,15 +148,12 @@ efforts and discuss opportunities.
 
 * The President may appoint active members to a chair or captain position without a vote with consent from the Vice President.
 * The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
-* There is no limit on the number of chair positions that can be created.
+* There is no limit on the number of chair positions that can be created. In addition to individual chair roles, formal teams may be established to manage specific club functions.
 * There are no restrictions on the number of chair positions a member can hold.
 * Responsibilities of Officers can be delegated to chair positions as needed, within reason, created chair positions should report to their respective officer.
 * Disputes over unfair delegation or workloads should follow the informal mediation process.
 * The constitutional list of chair positions is non-exhaustive.
 * Chair Positions:
-  * Webmaster
-    1. The Webmaster shall maintain the organization’s online platforms, including but not limited to the website, social media platforms, and the Discord server.
-    2. The Webmaster will report to the Tech Director unless otherwise decided by the President.
   * Recruitment Chair
     1. The Recruitment Chair shall plan and organize recruitment events such as the Involvement Fair.
     2. The Recruitment Chair will report to the Event Planner unless otherwise decided by the President.
@@ -164,6 +162,29 @@ efforts and discuss opportunities.
     2. The Social Chair will report to the Event Planner unless otherwise decided by the President.
 * Filling vacancies:
   * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#12-elections) rules in section 12.
+
+### 6.1 Tech Team <a name="61-tech-team"></a>
+
+* The Tech Team is responsible for the design, implementation, and maintenance of all club technical infrastructure. This includes systems supporting competitions, educational resources, and the club's online presence. The team works collaboratively to provide a stable technical environment for all members.
+
+* The Tech Team is led by the **Tech Director**, see [tech director](#5-officers) role documentation.  All team members report to the Tech Director.
+
+*   **Team Roles and Responsibilities:**
+    *   **Cloud Systems Administrator**
+        1.  Manages and maintains all cloud-based infrastructure, primarily utilizing platforms such as Kubernetes, Oracle Cloud, Rancher
+        2.  Responsible for cloud service provisioning, identity and access management (IAM), and managing the club's domain names and DNS records.
+    *   **On-Premises Systems Administrator**
+        1.  Manages and maintains all physical and locally hosted club infrastructure, including servers, networking equipment, and virtualization platforms (e.g., Openstack, Kubernetes, Ansible).
+        2.  Responsible for hardware maintenance, operating system patching, and ensuring the availability of on-premise lab environments.
+    *   **Webmaster**
+        1.  Maintains the organization’s public-facing online platforms, including the official website, social media accounts, and the Discord server.
+        2.  Responsible for content updates, theme management, and ensuring a positive user experience on all club platforms.
+    *   **CTF Creation Chair**
+        1.  Leads the development, testing, and deployment of Capture The Flag (CTF) challenges for use in club meetings, workshops, and recruitment events.
+        2.  Works closely with the Systems Administrators to deploy challenges on the appropriate infrastructure.
+    *   **Resource Developer**
+        1.  Creates and curates technical and educational content for the club, such as workshops, resources, and documentation.
+        2.  Manages the club's knowledge base (e.g., wiki or Git repository) to ensure resources are organized and accessible to all members.
 
 ## 7. Removal/Replacement of Officers <a name="7-removalreplacement-of-officers"></a>
 

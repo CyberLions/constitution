@@ -92,7 +92,7 @@ members to be selected as an officer, captain, or chair at the time of the appoi
 election. Officers, captains, and chairs may change from full-time to part-time, or vice versa, after starting their role.
 The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
-* Active members may be elected to officer positions according to the [election](#13-elections) rules in section 12.
+* Active members may be elected to officer positions according to the [election](#13-elections) rules in section 13.
 * The Officers should meet at least once a week when possible. This should include
 captains and chairs for at least a portion of the meeting.
 * The Officers should meet with the advisor at least three (3) times a semester to coordinate
@@ -172,16 +172,17 @@ efforts and discuss opportunities.
     1. The Social Chair shall plan, organize, and execute at least 2 social and fundraising events per semester.
     2. The Social Chair will report to the Event Planner unless otherwise decided by the President.
 * Filling vacancies:
-  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#13-elections) rules in section 12.
+  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the rules in the [Elections] section(#13-elections).
 
 ## 8. Removal/Replacement of Officers and Captains <a name="8-removalreplacement-of-officers-and-captains"></a>
 
-* In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
-officer.
-  1. The officer stepping down must provide a minimum of two weeks's notice that they are stepping down.
-  2. Upon notice of an officer stepping down, the Executive Board must begin electing a replacement officer using the [election](#13-elections) rules outlined in section 12.
+* In the event an officer or captain steps down, or a position is vacant, the following steps should be taken to replace the
+officer or captain.
+  1. The officer or captain stepping down must provide a minimum of two weeks's notice that they are stepping down.
+  2. Upon notice of an officer stepping down, the Executive Board must begin electing a replacement officer using the rules in the [Elections](#13-elections) section.
+  3. Upon notice of a captain stepping down, the Executive Board must appoint a new captain as defined in the [Captains](#6-captains) section.
   3. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
-* In the event an officer is not fulfilling their duties as outlined in [section 5](#5-officers) and by the President, they meet grounds for dismissal from their officer position.
+* In the event an officer is not fulfilling their duties as outlined in the [Officers](#5-officers) section and by the President, they meet grounds for dismissal from their officer position.
   * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable.
   * After a warning is issued, the officer in question will begin a two-week probationary period where they can address the grievances cited in the warning.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.

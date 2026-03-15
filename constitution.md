@@ -2,7 +2,7 @@
 
 Date of Origin: September 2014
 
-Last Updated: April 2025
+Last Updated: March 2026
 
 ## Table of Contents
 
@@ -15,8 +15,8 @@ Last Updated: April 2025
 7.  [Removal/Replacement of Officers](#7-removalreplacement-of-officers)
 8.  [Competition Teams](#8-competition-teams)
 9.  [Meetings](#9-meetings)
-10.  [Voting](#10-voting)
-11.  [Finances](#11-finances)
+10. [Voting](#10-voting)
+11. [Finances](#11-finances)
 12. [Elections](#12-elections)
 13. [Amendments to the Constitution](#13-amendments-to-the-constitution)
 14. [Parliamentary Authority](#14-parliamentary-authority)
@@ -27,7 +27,7 @@ Last Updated: April 2025
 
 The purpose of the Penn State Competitive Cyber Security Organization (CCSO) is to
 provide members with opportunities to pursue their interests in all facets of cybersecurity,
-develop their technical skills, collaborate with alumni, and other organizations, and provide
+develop their technical skills, collaborate with alumni and other organizations, and provide
 mentorship opportunities.
 
 ## 2. Mission <a name="2-mission"></a>
@@ -45,7 +45,7 @@ competitions.
 
 * At all times, the majority (50%+1) of all active members shall be full-time, officially
 registered students at University Park.
-* The membership shall be divided into active and associate members
+* The membership shall be divided into active and associate members.
   * Only currently registered students who have paid club dues are eligible for active membership.
   * All other members interested in dedicating themselves to the purpose of the Penn State Competitive Cyber Security Organization, including but not limited to, faculty, students from other Penn State campuses, staff, and community members, shall be associate members.
 * Only active members may hold office, vote, preside, officiate, solicit funds on behalf of
@@ -55,22 +55,22 @@ must be maintained by the organization.
 * The club reserves the right to expel a member who is not following the policies of the
 organization with a super-majority vote (75%) of attending members.
 * In the case of violations of constitutional policies and/or a conflict between members
-within the organization the highest-ranking officer that is not involved in the conflict,
+within the organization, the highest-ranking officer that is not involved in the conflict,
 with assistance from the advisor (if applicable), will facilitate an informal mediation
 procedure:
   * The mediator shall:
-    1. Arrange for a mediation meeting outside of the regular organization business meeting
-    2. Explain their role as the impartial party and the objectives of the mediation
-    3. Set ground rules
-    4. Allow each party to express their views by allowing the conversation to go where the parties wish it to go
-    5. Collect any available resources that might assist in the resolution (financial documents, emails, photos, etc.)
-    6. As a third party, do not suggest resolutions but rather leave the responsibility for the resolution with the parties involved
-    7. Facilitate goal setting to reach a win-win resolution
+    1. Arrange for a mediation meeting outside of the regular organization business meeting.
+    2. Explain their role as the impartial party and the objectives of the mediation.
+    3. Set ground rules.
+    4. Allow each party to express their views by allowing the conversation to go where the parties wish it to go.
+    5. Collect any available resources that might assist in the resolution (financial documents, emails, photos, etc.).
+    6. As a third party, do not suggest resolutions but rather leave the responsibility for the resolution with the parties involved.
+    7. Facilitate goal setting to reach a win-win resolution.
 * New Membership and Recruitment
   * Any new members will be given full disclosure during recruitment, including but not limited to the disclosure of:
-    1. New Membership Manual (if applicable)
-    2. Schedule of New Member Events and Activities (if applicable)
-    3. A list of all responsibilities
+    1. New Membership Manual (if applicable).
+    2. Schedule of New Member Events and Activities (if applicable).
+    3. A list of all responsibilities.
     4. A copy of the University Hazing Policy, prescribed by Policies and Rules for
 Student Organizations. This document is available upon request by the Office of
 Student Activities.
@@ -85,11 +85,11 @@ laws.
 ## 5. Officers <a name="5-officers"></a>
 
 * Undergraduate candidates must be full-time, officially registered active student members
-to be selected as an officer or chair at the time of the appointment or election.
+to be selected as an officer, captain, or chair at the time of the appointment or election.
 Graduate candidates may be full-time or part-time, officially registered active student
-members to be selected as an officer or chair at the time of the appointment or
-election. Officers may change from full-time to part-time, or vice versa, after becoming
-an officer. The organization may establish and apply additional eligibility criteria for
+members to be selected as an officer, captain, or chair at the time of the appointment or
+election. Officers, captains, and chairs may change from full-time to part-time, or vice versa, after starting their role.
+The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
 * Active members may be elected to officer positions according to the [election](#12-elections) rules in section 12.
 * The President may appoint active members to a captain position without a vote with consent from the Vice President.
@@ -172,9 +172,9 @@ officer.
   1. The officer stepping down must provide a minimum of two weeks's notice that they are stepping down.
   2. Upon notice of an officer stepping down, the executive board must begin electing a replacement officer using the [election](#12-elections) rules outlined in section 12.
   3. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
-* In the event an officer is not fulfilling their duties as outlined in [section 5](#5-officers) and by the President. They meet grounds for dismissal from their officer position.
-  * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable
-  * After a warning is issued. The officer in question will begin a two-week probationary period where they can address the grievances cited in the warning.
+* In the event an officer is not fulfilling their duties as outlined in [section 5](#5-officers) and by the President, they meet grounds for dismissal from their officer position.
+  * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable.
+  * After a warning is issued, the officer in question will begin a two-week probationary period where they can address the grievances cited in the warning.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
   * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
 
@@ -182,18 +182,18 @@ officer.
 
 ### Tryouts
 
-* The Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
-* Tryouts should consist of a hands-on exercise that provides a fair assessment of skills required to be a successful member of the competition team.
+* The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
+* Each tryout should consist of a hands-on exercise that provides a fair assessment of skills required to be a successful member of the competition team.
 * Captains may solicit help from other members, alumni, or associate members to build the tryout exercise.
   * If possible, only members not planning to participate in tryouts should assist with the creation of the exercise. Otherwise, another fair evaluation must be provided by the captain for that member.
-* The result of these tryouts may be used to determine the makeup of other competition teams such as Cyberforce. It's encouraged to hold a tryout exercise for all competitions involving travel.
+* The result of these tryouts may be used to determine the makeup of other competition teams, such as CyberForce. It's encouraged to hold a tryout exercise for all competitions involving travel.
 
 ### Team Selection
 
 * For competitions that do not have an associated tryout, captains may use an application form to select their teams.
 * Team captains have the final say over team selection.
 * If a competition has alternate members, the team captain is free to determine the process of selecting both alternates and full members. This process must be made clear up front to all involved team members, ideally at tryouts/application.
-* Captains must confer with the advisor, and the highest level executive board member not seeking a spot on the team to confirm their team selections.
+* Captains must confer with the advisor and the highest level executive board member not seeking a spot on the team to confirm their team selections.
 * Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 
 ## 9. Meetings <a name="9-meetings"></a>
@@ -226,7 +226,7 @@ active members from voting.
 * This organization will collect reasonable dues if and only if:
   1. The dues are not excessive.
   2. There is a proven need for dues as income for the organization.
-  3. Dues are determined by The Treasurer with consent from the President.
+  3. Dues are determined by the Treasurer with consent from the President.
 * Dues shall be collected semi-annually.
 
 ### Spending
@@ -242,10 +242,9 @@ month prior to the end of the Spring semester.
 * Newly elected officers fully assume their roles and responsibilities at the end of the
 Spring semester.
 * This meeting shall be publicized at least 1 month in advance and in the meetings
-preceding it and through all organizational communication platforms such as Discord,
-and Email.
+preceding it and through all organizational communication platforms such as Discord and email.
 * Election codes
-  1. Nominees for the president must be someone who has held an Officer, Captain, or Chair role in the organization for at least 1 semester. Should no-one meet these criteria, all active members may be nominated.
+  1. Nominees for the role of President must have previously held an Officer, Captain, or Chair role in the organization for at least 1 semester. Should no-one meet these criteria, any active member may be nominated.
   2. All active members may cast a single vote per office.
   3. Any member may nominate an active member for an office prior to the election. Candidates must accept their nomination prior to elections.
   4. Candidates must prepare a brief presentation in support of their candidacy, and answer questions from members.
@@ -283,3 +282,4 @@ the Executive Board.
 * Responsibilities
   * The Advisor shall serve as an official representative for the Penn State Competitive Cyber Security Organization when required by a competition.
   * The Advisor shall serve as an intermediary between the Penn State Competitive Cyber Security Organization and The Pennsylvania State University or the College of Information Sciences and Technology.
+  

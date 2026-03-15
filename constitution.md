@@ -11,17 +11,18 @@ Last Updated: March 2026
 3.  [Goal](#3-goal)
 4.  [Membership](#4-membership)
 5.  [Officers](#5-officers)
-6.  [Chairs](#6-chairs)
-7.  [Removal/Replacement of Officers](#7-removalreplacement-of-officers)
-8.  [Competition Teams](#8-competition-teams)
-9.  [Meetings](#9-meetings)
-10. [Voting](#10-voting)
-11. [Finances](#11-finances)
-12. [Elections](#12-elections)
-13. [Amendments to the Constitution](#13-amendments-to-the-constitution)
-14. [Parliamentary Authority](#14-parliamentary-authority)
-15. [Accessibility of this Constitution](#15-accessibility-of-this-constitution)
-16. [Advisor](#16-advisor)
+6.  [Captains](#6-captains)
+7.  [Chairs](#7-chairs)
+8.  [Removal/Replacement of Officers](#8-removalreplacement-of-officers)
+9.  [Competition Teams](#9-competition-teams)
+10.  [Meetings](#10-meetings)
+11. [Voting](#11-voting)
+12. [Finances](#12-finances)
+13. [Elections](#13-elections)
+14. [Amendments to the Constitution](#14-amendments-to-the-constitution)
+15. [Parliamentary Authority](#15-parliamentary-authority)
+16. [Accessibility of this Constitution](#16-accessibility-of-this-constitution)
+17. [Advisor](#17-advisor)
 
 ## 1. Purpose <a name="1-purpose"></a>
 
@@ -91,8 +92,8 @@ members to be selected as an officer, captain, or chair at the time of the appoi
 election. Officers, captains, and chairs may change from full-time to part-time, or vice versa, after starting their role.
 The organization may establish and apply additional eligibility criteria for
 appointed or elected leaders/officers upon a super-majority (75%) vote.
-* Active members may be elected to officer positions according to the [election](#12-elections) rules in section 12.
-* The 
+* Active members may be elected to officer positions according to the [election](#13-elections) rules in section 12.
+* Active members may be appointed to captain positions by a majority vote of the Executive Board.
 * The President may appoint active members to a captain position without a vote with consent from the Vice President.
 * Active members may hold a single officer or captain position at a time.
 * Captains may hold an Officer position with the approval of both the current President and club Advisor.
@@ -134,6 +135,9 @@ efforts and discuss opportunities.
     2. The Tech Director will facilitate the technological resources for any club activities.
     3. The Tech Director will serve as the Webmaster when the position is vacant.
     4. The goal of the Tech Director will be managing and maintaining the technical resources of the club to facilitate trainings, competitions, and club image.
+
+## 6. Captains <a name="7-chairs"></a>
+
 * Captain Positions:
   * Offensive, Defensive, and CTF Captains
     1. Each captain position can only be held by one individual, no one may hold multiple captain positions simultaneously.
@@ -144,7 +148,7 @@ efforts and discuss opportunities.
     6. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
     7. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
 
-## 6. Chairs <a name="6-chairs"></a>
+## 6. Chairs <a name="7-chairs"></a>
 
 * The President may appoint active members to a chair or captain position without a vote with consent from the Vice President.
 * The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
@@ -164,14 +168,14 @@ efforts and discuss opportunities.
     1. The Social Chair shall plan, organize, and execute at least 2 social and fundraising events per semester.
     2. The Social Chair will report to the Event Planner unless otherwise decided by the President.
 * Filling vacancies:
-  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#12-elections) rules in section 12.
+  * If there is a sudden vacancy for an officer position, nominations must be taken at the meeting following the vacancy. Refer to the [election](#13-elections) rules in section 12.
 
-## 7. Removal/Replacement of Officers <a name="7-removalreplacement-of-officers"></a>
+## 7. Removal/Replacement of Officers <a name="8-removalreplacement-of-officers"></a>
 
 * In the event an officer steps down, or a position is vacant, the following steps should be taken to replace the
 officer.
   1. The officer stepping down must provide a minimum of two weeks's notice that they are stepping down.
-  2. Upon notice of an officer stepping down, the Executive Board must begin electing a replacement officer using the [election](#12-elections) rules outlined in section 12.
+  2. Upon notice of an officer stepping down, the Executive Board must begin electing a replacement officer using the [election](#13-elections) rules outlined in section 12.
   3. An interim officer may be appointed by the President and Vice President as needed until the officer position is officially filled
 * In the event an officer is not fulfilling their duties as outlined in [section 5](#5-officers) and by the President, they meet grounds for dismissal from their officer position.
   * The President and Vice President may issue a verbal or written warning outlining the officer in question’s failed duties and other misconducts as applicable.
@@ -179,7 +183,7 @@ officer.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
   * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
 
-## 8. Competition Teams <a name="8-competition-teams"></a>
+## 9. Competition Teams <a name="9-competition-teams"></a>
 
 ### Tryouts
 
@@ -197,7 +201,7 @@ officer.
 * Captains must confer with the advisor and the highest level Executive Board member not seeking a spot on the team to confirm their team selections.
 * Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 
-## 9. Meetings <a name="9-meetings"></a>
+## 10. Meetings <a name="10-meetings"></a>
 
 * The Penn State Competitive Cyber Security Organization will meet at least once per
 month
@@ -206,7 +210,7 @@ to all active members.
 * The President, with the consent of the Vice President, may change the meeting frequency.
 * The President may call special meetings at their discretion.
 
-## 10. Voting <a name="10-voting"></a>
+## 11. Voting <a name="11-voting"></a>
 
 * A Quorum for all voting shall be thirty-three percent (33%) of the active members. If an
 active member does not attend four (4) meetings in a row or misses two meetings with
@@ -220,7 +224,7 @@ consent from the Executive Board.
 * The method and format for voting must be reasonable and cannot be used to exclude
 active members from voting.
 
-## 11. Finances <a name="11-finances"></a>
+## 12. Finances <a name="12-finances"></a>
 
 * All organizational funds are to be deposited and handled exclusively through the Associated Student Activities (ASA).
 * This organization will not have an off-campus account(s).
@@ -236,7 +240,7 @@ active members from voting.
 * All other uses of organizational funds require both Treasurer approval and majority consent from the Executive Board.
 * If a dispute about the use of organizational funds cannot be resolved, follow the outlined informal mediation process.
 
-## 12. Elections <a name="12-elections"></a>
+## 13. Elections <a name="13-elections"></a>
 
 * Officer elections shall take place during a regularly scheduled meeting more than a
 month prior to the end of the Spring semester.
@@ -255,7 +259,10 @@ preceding it and through all organizational communication platforms such as Disc
   8. In the event of a tie, the ballots will be recast.
   9. No one involved in conducting the elections may be an official candidate.
 
-## 13. Amendments to the Constitution <a name="13-amendments-to-the-constitution"></a>
+### Selection of Captains and Chairs
+* Captains and chairs are appointed by the 
+
+## 14. Amendments to the Constitution <a name="14-amendments-to-the-constitution"></a>
 
 * Amendments to this constitution may be introduced at any time. Voting must take place at least a week after an amendment's introduction.
 * Any active member can introduce an amendment.
@@ -263,16 +270,16 @@ preceding it and through all organizational communication platforms such as Disc
 * Upon a successful vote, the amendment takes effect following Office of Student Activities approval.
 * The organization's advisor must be notified of proposed constitution changes at least a week in advance and withholds the right to veto constitutional amendments.
 
-## 14. Parliamentary Authority <a name="14-parliamentary-authority"></a>
+## 15. Parliamentary Authority <a name="15-parliamentary-authority"></a>
 
 * Robert’s Rules of Order, Newly Revised, by Sarah Corbin Roberts shall be used in all
 cases not covered by this constitution.
 
-## 15. Accessibility of this Constitution <a name="15-accessibility-of-this-constitution"></a>
+## 16. Accessibility of this Constitution <a name="16-accessibility-of-this-constitution"></a>
 
 * Copies of this constitution shall be made available to anyone upon request.
 
-## 16. Advisor <a name="16-advisor"></a>
+## 17. Advisor <a name="17-advisor"></a>
 
 * This organization must always retain at least one advisor. The advisor will be a full-time
 Faculty or Staff member of The Pennsylvania State University, University Park campus

@@ -196,6 +196,9 @@ officer.
 * Captains must confer with the advisor and the highest level executive board member not seeking a spot on the team to confirm their team selections.
 * Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 
+### Advisor Approval
+* Any competition that requires or references advisor involvement, whether for travel or virtual participation, must receive advisor approval prior to registration. The advisor must be informed of their role and responsibilities before registration is completed. No member may sign on behalf of an advisor or submit documentation bearing an advisor's name without their explicit written consent. Failure to follow this process will be reviewed by the organization's advisor, who will determine appropriate corrective action, which may include removal from the team, removal from the leadership position, or further administrative action.
+
 ## 9. Meetings <a name="9-meetings"></a>
 
 * The Penn State Competitive Cyber Security Organization will meet at least once per

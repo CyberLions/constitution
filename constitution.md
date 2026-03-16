@@ -178,6 +178,8 @@ officer.
   * If after the probationary period, the officer in question is still not meeting the expectations outlined in the warning, the executive board and chairs can vote to remove the officer using a two-thirds majority.
   * If the officer in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
 
+* If an officer-elect is unable to assume their position at the scheduled time of appointment, the outgoing officer shall continue to serve on an interim basis. If the outgoing officer is unavailable, the President, or in their absence the highest-ranking available officer, shall appoint an interim officer. In either case, the interim period shall last until the officer-elect is able to assume the role, but no later than the start of the following Fall semester. If the officer-elect remains unable to assume the position by that time, the vacancy shall be filled according to the procedures outlined in the [Removal/Replacement of Officers](#7-removalreplacement-of-officers) section.
+
 ## 8. Competition Teams <a name="8-competition-teams"></a>
 
 ### Tryouts

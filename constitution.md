@@ -146,11 +146,12 @@ efforts and discuss opportunities.
     1. Each captain position can only be held by one individual, no one may hold multiple captain positions simultaneously.
     2. The Offensive and Defensive Captains will lead the CPTC and CCDC competition teams respectively, as well as any other non-CTF cybersecurity competitions unless otherwise decided by the President.
     3. The CTF Captain will identify and promote CTF competitions throughout the year, select teams, and organize practices or delegate the organization of practices to individual teams. 
-    4. The CTF Captain will organize SillyCTF, an annual public CTF competition, with support from the Executive Board. The CTF Captain may delegate this task.
-    5. The Offensive and Defensive Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
-    6. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
-    7. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
-    8. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
+    4. The CTF Captain will organize SillyCTF, an annual public CTF competition in the Spring Semester, with support from the Executive Board. The CTF Captain may delegate this task.
+    5. The CTF Captain will organize The Conspiracy, an annual Alternate Reality Game in the Fall semester, with support from the Executive Board. The CTF Captain may delegate this task.
+    6. The Offensive and Defensive Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
+    7. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
+    8. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
+    9. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
 
 ## 7. Chairs <a name="7-chairs"></a>
 

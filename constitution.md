@@ -169,24 +169,24 @@ efforts and discuss opportunities.
 ### 7.1 Tech Team <a name="71-tech-team"></a>
 * The Tech Team is responsible for the design, implementation, and maintenance of all club technical infrastructure. This includes systems supporting competitions, educational resources, and the club's online presence. The team works collaboratively to provide a stable technical environment for all members.
 
-* The Tech Team is led by the **Tech Director**, see [Tech Director](#5-officers) role documentation.  All team members report to the Tech Director.
+* The Tech Team is led by the **Tech Director**, see [Tech Director](#5-officers) role documentation. All team members report to the Tech Director.
 
 *   **Team Roles and Responsibilities:**
     *   **Cloud Systems Administrator**
-        1.  Manages and maintains all cloud-based infrastructure, primarily utilizing platforms such as Kubernetes, Oracle Cloud, Rancher.
-        2.  Responsible for cloud service provisioning, identity and access management (IAM), and managing the club's domain names and DNS records.
+        1. Manages and maintains all cloud-based infrastructure, primarily utilizing platforms such as Kubernetes, Oracle Cloud, Rancher.
+        2. Responsible for cloud service provisioning, identity and access management (IAM), and managing the club's domain names and DNS records.
     *   **On-Premises Systems Administrator**
-        1.  Manages and maintains all physical and locally hosted club infrastructure, including servers, networking equipment, and virtualization platforms (e.g., OpenStack, Kubernetes, Ansible).
-        2.  Responsible for hardware maintenance, operating system patching, and ensuring the availability of on-premises lab environments.
+        1. Manages and maintains all physical and locally hosted club infrastructure, including servers, networking equipment, and virtualization platforms (e.g., OpenStack, Kubernetes, Ansible).
+        2. Responsible for hardware maintenance, operating system patching, and ensuring the availability of on-premises lab environments.
     *   **Webmaster**
-        1.  Maintains the organization’s public-facing online platforms, including the official website, social media accounts, and the Discord server.
-        2.  Responsible for content updates, theme management, and ensuring a positive user experience on all club platforms.
+        1. Maintains the organization’s public-facing online platforms, including the official website, social media accounts, and the Discord server.
+        2. Responsible for content updates, theme management, and ensuring a positive user experience on all club platforms.
     *   **CTF Creation Chair**
-        1.  Leads the development, testing, and deployment of Capture The Flag (CTF) challenges for use in club meetings, workshops, and recruitment events.
-        2.  Works closely with the Systems Administrators to deploy challenges on the appropriate infrastructure.
+        1. Leads the development, testing, and deployment of Capture The Flag (CTF) challenges for use in club meetings, workshops, and recruitment events.
+        2. Works closely with the Systems Administrators to deploy challenges on the appropriate infrastructure.
     *   **Resource Developer**
-        1.  Creates and curates technical and educational content for the club, such as workshops, resources, and documentation.
-        2.  Manages the club's knowledge base (e.g., wiki or Git repository) to ensure resources are organized and accessible to all members.
+        1. Creates and curates technical and educational content for the club, such as workshops, resources, and documentation.
+        2. Manages the club's knowledge base (e.g., wiki or Git repository) to ensure resources are organized and accessible to all members.
 
 
 ### 7.2 Social Team <a name="72-social-team"></a>

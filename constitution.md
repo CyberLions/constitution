@@ -125,7 +125,7 @@ efforts and discuss opportunities.
   * Event Planner
     1. The Event Planner will lead the Social Team and is responsible for planned activities excluding competitions, including but not limited to booking university spaces and organizing participation in involvement fairs.
     2. The Event Planner will maintain a master schedule for the academic year listing all events.
-    3. The Event Planner will be responsible for facilitating the involvement fair each semester. This includes but is not limited to scheduling people to be present at the table, creating the posterboard, and facilitating recruiting activities.
+    3. The Event Planner will be responsible for facilitating the Involvement Fair each semester. This includes but is not limited to scheduling people to be present at the table, creating the posterboard, and facilitating recruiting activities.
     4. The Event Planner shall serve as the Recruitment and Social chair when the positions are vacant.
     5. The goal of the Event Planner will be to plan and support organization events, outreach and community engagement.
   * Tech Director
@@ -169,11 +169,11 @@ efforts and discuss opportunities.
 ### 7.1 Tech Team <a name="71-tech-team"></a>
 * The Tech Team is responsible for the design, implementation, and maintenance of all club technical infrastructure. This includes systems supporting competitions, educational resources, and the club's online presence. The team works collaboratively to provide a stable technical environment for all members.
 
-* The Tech Team is led by the **Tech Director**, see [Tech Director](#5-officers) role documentation. All team members report to the Tech Director.
+* The Tech Team is led by the **Tech Director**, see Tech Director role documentation in the [Officers](#5-officers) section. All team members report to the Tech Director.
 
 *   **Team Roles and Responsibilities:**
     *   **Cloud Systems Administrator**
-        1. Manages and maintains all cloud-based infrastructure, primarily utilizing platforms such as Kubernetes, Oracle Cloud, Rancher.
+        1. Manages and maintains all cloud-based infrastructure, primarily utilizing platforms such as Kubernetes, Oracle Cloud, and Rancher.
         2. Responsible for cloud service provisioning, identity and access management (IAM), and managing the club's domain names and DNS records.
     *   **On-Premises Systems Administrator**
         1. Manages and maintains all physical and locally hosted club infrastructure, including servers, networking equipment, and virtualization platforms (e.g., OpenStack, Kubernetes, Ansible).
@@ -238,7 +238,7 @@ officer or captain.
 ​
 * For competitions that do not have an associated tryout, captains may use an application form to select their teams.
 * Team captains have the final say over team selection.
-* If a competition has alternate members, the team captain is free to determine the process of selecting both alternates and full members. This process must be made clear up front to all involved team members, ideally at tryouts/application.
+* If a competition has alternate members, the team captain is free to determine the process of selecting both alternates and full members. This process must be made clear in advance to all involved team members, ideally at tryouts/application.
 * Captains must confer with the advisor and the highest level Executive Board member not seeking a spot on the team to confirm their team selections.
 * Teams should be selected in a fair manner that emphasizes the skills required to be a successful member of the competition team.
 
@@ -254,7 +254,7 @@ officer or captain.
 ​
 ## 11. Voting <a name="11-voting"></a>
 ​
-* A Quorum for all voting shall be thirty-three percent (33%) of the active members. If an
+* A quorum for all voting shall be thirty-three percent (33%) of the active members. If an
 active member does not attend four (4) meetings in a row or misses two meetings with
 votes, they are not counted when forming a quorum.
 * Only active members may vote.

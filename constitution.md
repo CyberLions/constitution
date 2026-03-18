@@ -139,7 +139,7 @@ efforts and discuss opportunities.
 * The Executive Board shall solicit recommendations for new Captains from the outgoing Captains, and shall also accept statements of interest from active members.
 * Newly appointed captains fully assume their roles and responsibilities at the end of the Spring semester.
 * Active members may be appointed to captain positions by a majority vote of the Executive Board.
-* The President may appoint active members to a vacant captain position without a vote with consent from the Vice President.
+* The President may appoint active members to a vacant captain position without a vote with consent from the Vice-President.
 * Active members may hold a single officer or captain position at a time.
 * Captains may hold an Officer position with the approval of both the current President and club Advisor.
 * Captain Positions:
@@ -151,13 +151,13 @@ efforts and discuss opportunities.
     5. The CTF Captain will organize The Conspiracy, an annual Alternate Reality Game in the Fall semester, with support from the Executive Board. The CTF Captain may delegate this task. 
     6. The Offensive and Defensive Captains will hold open meetings focused on their respective cybersecurity topics at least three (3) times a semester.
     7. The Offensive and Defensive Captains must hold tryouts for the CPTC and CCDC competitive teams before the end of September.
-    8. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice President.
+    8. The Captains must have a detailed training plan prior to the start of the semester that must be approved by the President and Vice-President.
     9. The goal of the captain positions will be to gain hands-on leadership experience in a security-focused environment and represent Penn State at various competitive events.
 ​
 ## 7. Chairs <a name="7-chairs"></a>
 ​
-* The President may appoint active members to a chair position without a vote with consent from the Vice President.
-* The President may create, modify, or dismiss chair positions without a vote with consent from the Vice President.
+* The President may appoint active members to a chair position without a vote with consent from the Vice-President.
+* The President may create, modify, or dismiss chair positions without a vote with consent from the Vice-President.
 * There is no limit on the number of chair positions that can be created. In addition to individual chair roles, formal teams may be established to manage specific club functions.
 * There are no restrictions on the number of chair positions a member can hold.
 * Responsibilities of Officers can be delegated to chair positions as needed, within reason. Created chair positions should report to their respective officer.
@@ -217,9 +217,9 @@ officer or captain.
   1. The officer or captain stepping down must provide a minimum of two weeks' notice that they are stepping down.
   2. Upon notice of an officer stepping down, the Executive Board must begin electing a replacement officer using the rules in the [Elections](#13-elections) section.
   3. Upon notice of a captain stepping down, the Executive Board must appoint a new captain as defined in the [Captains](#6-captains) section.
-  4. An interim officer or captain may be appointed by the President and Vice President as needed until the officer or captain position is officially filled.
+  4. An interim officer or captain may be appointed by the President and Vice-President as needed until the officer or captain position is officially filled.
 * In the event an officer or captain is not fulfilling their duties as outlined by the President and in the [Officers](#5-officers) section or the [Captains](#6-captains) section respectively, they meet grounds for dismissal from their position.
-  * The President and Vice President may issue a verbal or written warning outlining the officer or captain in question’s failed duties and other misconduct as applicable.
+  * The President and Vice-President may issue a verbal or written warning outlining the officer or captain in question’s failed duties and other misconduct as applicable.
   * After a warning is issued, the officer or captain in question will begin a two-week probationary period where they can address the grievances cited in the warning.
   * If after the probationary period, the officer or captain in question is still not meeting the expectations outlined in the warning, the Executive Board and chairs can vote to remove the officer or captain using a two-thirds majority.
   * If the officer or captain in question believes any part of this proceeding to be unfair or unfounded, these disputes can be discussed with the club advisor.
@@ -249,7 +249,7 @@ officer or captain.
 ​
 * The Penn State Competitive Cyber Security Organization will meet at least once per month.
 * Adequate advance notice about the date, time, and location of the meeting must be given to all active members.
-* The President, with the consent of the Vice President, may change the meeting frequency.
+* The President, with the consent of the Vice-President, may change the meeting frequency.
 * The President may call special meetings at their discretion.
 ​
 ## 11. Voting <a name="11-voting"></a>

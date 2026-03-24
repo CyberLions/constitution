@@ -28,8 +28,7 @@ jobs:
             --pdf-engine=pdflatex \
             -V geometry:margin=1in \
             -V fontsize=11pt \
-            -V documentclass=article \
-            --toc
+            -V documentclass=article
 
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4

@@ -1,34 +1,57 @@
-name: Publish Signed Document to Release
+name: Build and Publish Constitution PDF
 
 on:
   push:
+    paths:
+      - constitution.md
   release:
     types: [published]
 
-env:
-  GITHUB_TOKEN: ${{ github.token }}
-
 jobs:
-  publish-and-release:
+  build-pdf:
     runs-on: ubuntu-latest
-    name: Publish Document to Release
+    name: Build PDF
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Publish PDF Document
-        uses: shrink/actions-document-publish@v1
-        id: publish-document
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra
+
+      - name: Generate PDF
+        run: |
+          pandoc constitution.md \
+            -o constitution.pdf \
+            --pdf-engine=pdflatex \
+            -V geometry:margin=1in \
+            -V fontsize=11pt \
+            -V documentclass=article \
+            --toc
+
+      - name: Upload PDF Artifact
+        uses: actions/upload-artifact@v4
         with:
-          sources: './constitution.md'
-      - if: github.event_name == 'release' && github.event.action == 'published'
-        name: Get Release
-        id: release
-        uses: bruceadams/get-release@v1.2.0
-      - if: github.event_name == 'release' && github.event.action == 'published'
-        name: Attach PDF to Release
-        uses: actions/upload-release-asset@v1
+          name: constitution-pdf
+          path: constitution.pdf
+
+  release:
+    needs: build-pdf
+    if: github.event_name == 'release'
+    runs-on: ubuntu-latest
+    name: Attach PDF to Release
+
+    steps:
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
         with:
-          upload_url: ${{ steps.release.outputs.upload_url }}
-          asset_path: ${{ steps.publish-document.outputs.pdf }}
-          asset_name: 'constitution.pdf'
-          asset_content_type: application/pdf
+          name: constitution-pdf
+
+      - name: Upload PDF to Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: constitution.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

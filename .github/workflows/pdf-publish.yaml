@@ -35,7 +35,7 @@ jobs:
         with:
           name: constitution-pdf
           path: constitution.pdf
-
+          
   create-release:
       needs: build-pdf
       if: github.event_name == 'push'
@@ -46,11 +46,15 @@ jobs:
           with:
             name: constitution-pdf
 
+        - name: Get date
+          id: date
+          run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
         - name: Create Release and Upload PDF
           uses: softprops/action-gh-release@v2
           with:
-            tag_name: build-${{ github.run_number }}
-            name: "Auto-build #${{ github.run_number }}"
+            tag_name: constitution-${{ steps.date.outputs.date }}-${{ github.run_number }}
+            name: "constitution-${{ steps.date.outputs.date }}"
             files: constitution.pdf
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

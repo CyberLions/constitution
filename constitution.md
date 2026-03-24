@@ -1,4 +1,4 @@
-# Pennsylvania State University - Competitive Cyber Security Organization
+# Pennsylvania State University - Competitive Cyber Security Organization 
 ​
 Date of Origin: September 2014
 ​

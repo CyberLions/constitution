@@ -37,21 +37,21 @@ jobs:
           name: constitution-pdf
           path: constitution.pdf
 
-  release:
-    needs: build-pdf
-    if: github.event_name == 'release'
-    runs-on: ubuntu-latest
-    name: Attach PDF to Release
+  create-release:
+      needs: build-pdf
+      if: github.event_name == 'push'
+      runs-on: ubuntu-latest
+      steps:
+        - name: Download Artifact
+          uses: actions/download-artifact@v4
+          with:
+            name: constitution-pdf
 
-    steps:
-      - name: Download Artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: constitution-pdf
-
-      - name: Upload PDF to Release
-        uses: softprops/action-gh-release@v2
-        with:
-          files: constitution.pdf
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        - name: Create Release and Upload PDF
+          uses: softprops/action-gh-release@v2
+          with:
+            tag_name: build-${{ github.run_number }}
+            name: "Auto-build #${{ github.run_number }}"
+            files: constitution.pdf
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

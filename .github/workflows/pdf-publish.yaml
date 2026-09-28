@@ -3,7 +3,7 @@ name: Build and Publish Constitution PDF
 on:
   push:
     paths:
-      - constitution.md
+      - CCSO_Constitution.tex
   release:
     types: [published]
 
@@ -16,29 +16,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Pandoc and LaTeX
+      - name: Install LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra
+          sudo apt-get install -y texlive-latex-base texlive-latex-recommended texlive-latex-extra
 
       - name: Generate PDF
         run: |
-          pandoc constitution.md \
-            -o constitution.pdf \
-            --pdf-engine=pdflatex \
-            -V geometry:margin=1in \
-            -V fontsize=11pt \
-            -V documentclass=article
+          pdflatex -interaction=nonstopmode CCSO_Constitution.tex
+          pdflatex -interaction=nonstopmode CCSO_Constitution.tex
 
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
         with:
           name: constitution-pdf
-          path: constitution.pdf
-          
+          path: CCSO_Constitution.pdf
+
   create-release:
       needs: build-pdf
-      if: github.event_name == 'push'
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       runs-on: ubuntu-latest
       steps:
         - name: Download Artifact
@@ -55,6 +51,6 @@ jobs:
           with:
             tag_name: constitution-${{ steps.date.outputs.date }}-${{ github.run_number }}
             name: "constitution-${{ steps.date.outputs.date }}"
-            files: constitution.pdf
+            files: CCSO_Constitution.pdf
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
